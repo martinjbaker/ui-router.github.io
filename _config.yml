@@ -104,6 +104,8 @@ include:
   - "_*_*_*_.*.html"
   - "_*_*_*_*.*.html"
   - "_*_*_*_*_.*.html"
+  - "_*_*_*_*_*.*.html"
+  - "_*_*_*_*_*_.*.html"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
